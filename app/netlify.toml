@@ -1,0 +1,11 @@
+# Für Deploys aus einem Git-Repository: Netlify lädt die MobileNet-Gewichte beim Build
+# herunter und liefert sie mit der App aus. Klappt der Download nicht, wird trotzdem gebaut.
+[build]
+  command = "npm run fetch-models || true; npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[[headers]]
+  for = "/models/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

@@ -1,0 +1,16 @@
+# App
+app/node_modules/
+app/dist/
+app/public/models/
+app/.netlify/
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+.venv/
+*.pyc
+# System
+.DS_Store
+Thumbs.db
+*.log
