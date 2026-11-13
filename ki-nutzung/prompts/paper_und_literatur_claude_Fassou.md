@@ -1,4 +1,4 @@
-# Prompts zu Paper und Literaturrecherche – Claude-Chat von Nestor Mermoz Thea (MEC)
+# Prompts zu Paper und Literaturrecherche – Claude-Chat von Fassou Mathias Kolie
 
 Werkzeug: Claude (Anthropic), Claude-App. Zeitraum: 8.–13. November 2026.
 Die Prompts sind unverändert (Originalsprache Französisch/Deutsch, inkl. Tippfehler).

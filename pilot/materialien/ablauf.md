@@ -1,6 +1,6 @@
 # Ablauf der Pilotstudie
 
-Durchführung: November 2026, online über Google Forms, ohne Aufsicht. Die Teilnehmenden bearbeiteten
+Durchführung: November 2026, online über Google Forms, ohne Aufsicht, mit einer Gelegenheitsstichprobe volljähriger Personen. Die Teilnehmenden bearbeiteten
 Fragebogen und Anwendung selbstständig auf eigenen Geräten. Dauer laut Information ca. 20–25 Minuten.
 
 | Teil | Inhalt | Instrument |
@@ -14,4 +14,3 @@ Fragebogen und Anwendung selbstständig auf eigenen Geräten. Dauer laut Informa
 | Teil 6 | Spielerleben: Spaß, Interesse, Einsatz im Unterricht bzw. Weiterempfehlung, 1–5 | Motivation 1–3 |
 | Teil 7 | drei offene Fragen (Gefallen, Unverständliches, Verbesserungen), freiwillig | – |
 
-Rekrutierung: Bitte hier ergänzen, wie die Teilnehmenden angesprochen wurden (z. B. Kommiliton:innen, Bekannte, Link über Messenger).
